@@ -1,4 +1,4 @@
-![](docs\insight.jpg)
+![](docs/insight.jpg)
 
 ## **SCO ServiceNow Integration**
 ## **Application - Installation and Update Guide**
@@ -30,7 +30,7 @@
 | **Version** | **Change Date** | **Made By** | **Description of Change** |
 |:---:|:---:|:---:|---|
 | 1.0         | 8/17/2020       | Guy Davis   | Initial documentation     |
-|
+
 
 ## Procedure Description
 
@@ -58,24 +58,24 @@ To retrieve and update set first login to your ServiceNow instance and navigate 
 
 Click the Import Update Set from XML link at the bottom of the list. Click Choose File and select the XML file you downloaded, then click Upload.
 
-![](docs\screen1.png)
+![](docs/screen1.png)
 
-![](docs\screen2.png)
+![](docs/screen2.png)
 
 Open the update set you just uploaded, from the list of retrieved update sets.
 
 Next preview the update set by clicking the **Preview Update Set** button.
 
-![](docs\screen3.png)
+![](docs/screen3.png)
 
 If there are any preview errors, you&#39;ll have to resolve those errors before committing the update set.
 
 Finally click on the **Commit Update Set** button to either install the application or install any application changes.
 
-![](docs\screen4.png)
+![](docs/screen4.png)
 
 #### ServiceNow Documentation
-[https://docs.servicenow.com/bundle/paris-application-development/page/build/system-update-sets/task/t\_RetrieveAnUpdateSet.html](https://docs.servicenow.com/bundle/paris-application-development/page/build/system-update-sets/task/t_RetrieveAnUpdateSet.html)
+[Retrieve an Update Set](https://docs.servicenow.com/bundle/paris-application-development/page/build/system-update-sets/task/t_RetrieveAnUpdateSet.html)
 
 ## Set Application Properties
 
@@ -87,7 +87,7 @@ Navigate to System Applications and then to Studio. From the list choose the **S
 
 NOTE: If you are installing an update to the application you should verify the version number is greater than the current version installed.
 
-![](docs\screen5.png)
+![](docs/screen5.png)
 
 This will open the application for modification. In the navigation menu there will be a section labelled Properties. There are 3 properties in the application which are client\_id and client\_key and production.
 
@@ -128,7 +128,7 @@ If for any reason the application is to be removed from ServiceNow you can do th
 
 In the ServiceNow interface if you search for **My Company Applications** and then click on the link with the same name a screen is returned with all of the custom applications installed for your company.
 
-![](docs\screen7.png)
+![](docs/screen7.png)
 
 ## Open the Application Page
 
