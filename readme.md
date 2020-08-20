@@ -101,7 +101,7 @@ This will open the application for modification. In the navigation menu there wi
 
 #### ServiceNow Documentation
 
-[https://docs.servicenow.com/bundle/orlando-application-development/page/build/applications/concept/c\_ServiceNowStudio.html](https://docs.servicenow.com/bundle/orlando-application-development/page/build/applications/concept/c_ServiceNowStudio.html)
+[ServiceNow Studio](https://docs.servicenow.com/bundle/paris-application-development/page/build/applications/concept/c_ServiceNowStudio.html)
 
 ## Test Application
 
@@ -111,7 +111,7 @@ After the application has been installed navigate to a request in which some Ins
 
 When you click on this link a new page is opened which will display the current status of the request.
 
-![](docs\screen6.png)
+![](docs/screen6.png)
 
 ## Uninstalling Application
 
@@ -136,7 +136,7 @@ In the ServiceNow interface if you search for **My Company Applications** and th
 
 After you have opened your company applications you will see an application with the title **SCO and SNOW Integration**. Click anywhere within the application box to see the application details.
 
-![](docs\screen8.png)
+![](docs/screen8.png)
 
 ## Delete the Application
 
@@ -144,7 +144,7 @@ After you have opened your company applications you will see an application with
 
 Once the application page is scroll down and just above the **Related Links** section there is a delete button. Click on it and confirm the deletion.
 
-![](docs\screen9.png)
+![](docs/screen9.png)
 
 #### ServiceNow Documentation
 
