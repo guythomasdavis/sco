@@ -28,7 +28,7 @@
 ## Change History
 
 | **Version** | **Change Date** | **Made By** | **Description of Change** |
-|             |                 |             |                           |
+|:---:|:---:|:---:|---|
 | 1.0         | 8/17/2020       | Guy Davis   | Initial documentation     |
 |
 
@@ -148,5 +148,5 @@ Once the application page is scroll down and just above the **Related Links** se
 
 #### ServiceNow Documentation
 
-[https://docs.servicenow.com/bundle/paris-application-development/page/build/applications/concept/c\_ApplicationList.html](https://docs.servicenow.com/bundle/paris-application-development/page/build/applications/concept/c_ApplicationList.html)
+[Application List](https://docs.servicenow.com/bundle/paris-application-development/page/build/applications/concept/c_ApplicationList.html)
 
