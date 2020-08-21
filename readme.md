@@ -38,8 +38,8 @@ This guide documents the steps for installing or updating the Insight ServiceNow
 
 The process for installing or updating the application is the same. There are 3 steps.
 
-1. Retrieve the update set
-2. Set the application properties
+1. Installing application
+2. Set application properties
 3. Test application
 
 A ServiceNow update set is an XML file that contains a group of configuration changes that can be moved from one instance to another. This feature allows administrators to group a series of changes into a named set and then move them as a unit to other systems for testing or deployment.
