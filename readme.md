@@ -11,6 +11,8 @@
 
 [Installing Application](#_Toc48720718)
 
+[Downloading an Update Set](#_Toc48720800)
+
 [Retrieving an Update Set](#_Toc48720719)
 
 [Set Application Properties](#_Toc48720720)
@@ -49,6 +51,14 @@ The SCO ServiceNow Integration Application is packaged as a ServiceNow Update se
 Note: Unless otherwise specified all instructions should be performed by a ServiceNow administrator.
 
 ## Installing Application
+
+## Downloading an Update Set
+
+#### Description
+
+In this repository click on the xml file with the latest version number. Click on the **Raw** button and then save the file to your local computer. Note the location where the xml file has been downloaded. You will be using it in the next step.
+
+![](docs/screen11.png)
 
 ## Retrieving an Update Set
 
